@@ -1,0 +1,8 @@
+{
+  "name": "Galactic Live",
+  "description": "Live audio room stage with interactive gifts and stage management",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
